@@ -1,0 +1,7 @@
+MongoDB: MongoDB is an open-source, cross-platform NoSql database management system. It is a document-oriented database, thus data is kept in collections and documents. MongoDB stores data in binary JSON format, allowing for rapid data interchange between client and server. It may also be used to store enormous amounts of data, making it very scalable.
+
+Express: Express JS is a Node JS modular, lightweight framework that aids in the development of online applications. It is a server-side, back-end, JavaScript-based framework meant to help developers create simple, quick, and secure apps.
+
+React: React JS is an open-source JavaScript library that is used to create user interfaces for single-page applications. 
+
+NODE JS: Node JS is a JavaScript runtime environment that is open source and cross-platform. It is intended to run the JavaScript code on the server-side, away from the browser.
